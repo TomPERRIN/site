@@ -122,8 +122,9 @@ input, select, textarea {
 /* Type */
 
 	body {
-		background-color: #935d8c;
-		color: rgba(255, 255, 255, 0.65);
+		background-image: url="images/erdtree.png";
+		//background-color: #935d8c;
+		//color: rgba(255, 255, 255, 0.65);
 	}
 
 	body, input, select, textarea {
